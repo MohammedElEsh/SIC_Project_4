@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Elon",
+    "Phone": "0987654321",
+    "Email": "janesmith.com",
+    "Password": "qwerty456",
+    "Governorate": "Alexandria",
+    "Age": 30,
+    "Gender": "Female",
+    "Bio": "Nulla facilisi. Suspendisse scelerisque auctor leo, nec auctor ipsum tincidunt sed.",
+    "Following": 0,
+    "Followers": 6
+  },
+  {
+    "Name": "David Johnson",
+    "Phone": "9876543210",
+    "Email": "davidjohnson.com",
+    "Password": "password1234",
+    "Governorate": "Giza",
+    "Age": 35,
+    "Gender": "Male",
+    "Bio": "Aenean efficitur dui ut nisl blandit, eu aliquet diam ultrices.",
+    "Following": 0,
+    "Followers": 1
+  },
+  {
+    "Name": "Sarah Davis",
+    "Phone": "0123456789",
+    "Email": "sarahdavis.com",
+    "Password": "qwerty789",
+    "Governorate": "Luxor",
+    "Age": 40,
+    "Gender": "Female",
+    "Bio": "Curabitur tincidunt nunc eu mauris aliquam, euismod vehicula elit scelerisque.",
+    "Following": 0,
+    "Followers": 0
+  },
+  {
+    "Name": "Michael Wilson",
+    "Phone": "4567890123",
+    "Email": "michaelwilson.com",
+    "Password": "password567",
+    "Governorate": "Aswan",
+    "Age": 45,
+    "Gender": "Male",
+    "Bio": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc sollicitudin euismod purus at tristique.",
+    "Following": 0,
+    "Followers": 0
+  },
+  {
+    "Name": "Emily Brown",
+    "Phone": "9876543210",
+    "Email": "emilybrown.com",
+    "Password": "qwerty012",
+    "Governorate": "Port Said",
+    "Age": 50,
+    "Gender": "Female",
+    "Bio": "Nam vitae purus et mi laoreet suscipit.",
+    "Following": 0,
+    "Followers": 0
+  },
+  {
+    "Name": "Christopher Jones",
+    "Phone": "1234567890",
+    "Email": "christopherjones.com",
+    "Password": "password789",
+    "Governorate": "Suez",
+    "Age": 55,
+    "Gender": "Male",
+    "Bio": "Donec ullamcorper, turpis eget ultrices aliquet, magna purus egestas tellus, nec consequat metus ipsum id metus.",
+    "Following": 0,
+    "Followers": 0
+  },
+  {
+    "Name": "Olivia Miller",
+    "Phone": "0123456789",
+    "Email": "oliviamiller.com",
+    "Password": "qwerty345",
+    "Governorate": "Red Sea",
+    "Age": 60,
+    "Gender": "Female",
+    "Bio": "Phasellus accumsan, velit in tincidunt feugiat, mauris tortor mollis lectus, eget placerat est felis sed tortor.",
+    "Following": 0,
+    "Followers": 0
+  },
+  {
+    "Name": "Matthew Taylor",
+    "Phone": "4567890123",
+    "Email": "matthewtaylor.com",
+    "Password": "password234",
+    "Governorate": "Asyut",
+    "Age": 65,
+    "Gender": "Male",
+    "Bio": "Fusce hendrerit, elit in pulvinar tristique, augue sapien sollicitudin dui, a malesuada mi diam at orci.",
+    "Following": 0,
+    "Followers": 0
+  },
+  {
+    "Name": "Sophia Anderson",
+    "Phone": "9876543210",
+    "Email": "sophiaanderson.com",
+    "Password": "qwerty567",
+    "Governorate": "Qena",
+    "Age": 70,
+    "Gender": "Female",
+    "Bio": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed id eleifend quam.",
+    "Following": 0,
+    "Followers": 0
+  },
+  {
+    "Name": "Smith",
+    "phone": "",
+    "Email": "",
+    "Password": "",
+    "Governorate": "Cities",
+    "Age": "",
+    "Gender": "",
+    "Bio": " ",
+    "Following": 7,
+    "Followers": 0
+  }
+]

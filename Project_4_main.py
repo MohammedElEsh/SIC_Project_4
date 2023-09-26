@@ -6,7 +6,6 @@ import Project_4_signup as signup
 
 
 
-
 def pg1():
     pg1 = tk.Tk()
     pg1.title("Welcome Page")

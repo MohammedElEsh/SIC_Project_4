@@ -8,7 +8,7 @@ import Project_4_signup as signup
 
 
 def pg1():
-    pg1 = tk.Tk()jane
+    pg1 = tk.Tk()
     pg1.title("Welcome Page")
     pg1.geometry('925x500+300+200')
     pg1.configure(bg="#fff")
@@ -25,9 +25,16 @@ def pg1():
         signup.signup()
     
     
+    
+    
+    
+
+    
+    
+    
 
     # Create a Frame
-    frame = tk.Frame(pg1, bg="#0066ff")
+    frame = tk.Frame(pg1, bg="#0066ff")  
     frame.pack(fill=tk.BOTH, expand=True)
 
     # Labels

@@ -53,6 +53,8 @@ def signup():
 
     
     
+        destroy_pg(signup)
+        Project_4_signin.signin() 
     
     
     signup = tk.Tk()

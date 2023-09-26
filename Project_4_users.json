@@ -118,5 +118,17 @@
     "Bio": " ",
     "Following": 7,
     "Followers": 0
+  },
+  {
+    "Name": "Zoma",
+    "phone": "0",
+    "Email": "z",
+    "Password": "z",
+    "Governorate": "Damietta",
+    "Age": "20",
+    "Gender": "Male",
+    "Bio": " ",
+    "Following": 0,
+    "Followers": 0
   }
 ]

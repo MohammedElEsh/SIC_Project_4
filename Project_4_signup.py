@@ -182,11 +182,8 @@ def signup():
     
     
     signup.mainloop()
-    
-    
+        
 
-   
- 
 
   
 def write_json_file(data, filename):

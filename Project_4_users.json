@@ -8,8 +8,8 @@
     "Age": 30,
     "Gender": "Female",
     "Bio": "Nulla facilisi. Suspendisse scelerisque auctor leo, nec auctor ipsum tincidunt sed.",
-    "Following": 0,
-    "Followers": 6
+    "Following": 72,
+    "Followers": 356
   },
   {
     "Name": "David Johnson",
@@ -116,8 +116,8 @@
     "Age": "",
     "Gender": "",
     "Bio": " ",
-    "Following": 7,
-    "Followers": 0
+    "Following": 72,
+    "Followers": 324
   },
   {
     "Name": "Zoma",

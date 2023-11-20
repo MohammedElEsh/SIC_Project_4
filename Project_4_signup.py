@@ -163,7 +163,7 @@ def signup():
     register_button = tk.Button(frame, text="Register", font=("MS Shell Dlg 2", 15), bg="#002966", fg="white", command=store_in_db)
     register_button.grid(row=9, column=1, pady=3)
     
-    # Load the image
+    # # Load the image
     image_path = r"D:\SIC\SIC_Project_4\home.png"
     image = Image.open(image_path)
     image = image.resize((20, 20))
